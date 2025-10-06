@@ -19,8 +19,6 @@ It gives you a modern shell experience similar to Zsh / Oh-My-Zsh on Linux.
 ```bash
 git clone https://github.com/yourusername/auto-suggest-termux.git
 cd auto-suggest-termux
-2 . Make the script executable
 chmod +x auto-suggest-termux.sh
 Run the script
 ./auto-suggest-termux.sh
-Restart Termux
