@@ -20,9 +20,6 @@ It gives you a modern shell experience similar to Zsh / Oh-My-Zsh on Linux.
 git clone https://github.com/yourusername/auto-suggest-termux.git
 cd auto-suggest-termux
 Make the script executable
-
-bash
-Copy code
 chmod +x auto-suggest-termux.sh
 Run the script
 
@@ -63,4 +60,5 @@ chsh -s bash
 # or
 chsh -s zsh
 📢 Credits
+
 Made with ❤️ by TechVyana
