@@ -20,5 +20,4 @@ It gives you a modern shell experience similar to Zsh / Oh-My-Zsh on Linux.
 git clone https://github.com/yourusername/auto-suggest-termux.git
 cd auto-suggest-termux
 chmod +x auto-suggest-termux.sh
-Run the script
 ./auto-suggest-termux.sh
