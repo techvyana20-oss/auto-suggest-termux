@@ -18,7 +18,7 @@ It gives you a modern shell experience similar to Zsh / Oh-My-Zsh on Linux.
 1. **Clone the repository**  
 ```bash
 pkg install git -y
-https://github.com/techvyana20-oss/auto-suggest-termux.git
+git clone https://github.com/techvyana20-oss/auto-suggest-termux.git
 cd auto-suggest-termux
 chmod +x auto-suggest-termux.sh
 ./auto-suggest-termux.sh
